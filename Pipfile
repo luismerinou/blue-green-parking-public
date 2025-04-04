@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+numpy = "*"
+pyproj = "*"
+geopy = "*"
+fastapi = "*"
+uvicorn = "*"
+dash = "*"
+folium = "*"
+pydeck = "*"
+plotly = "*"
+leafmap = "*"
+streamlit = "*"
+streamlit-folium = "*"
+streamlit_geolocation = "*"
+streamlit-current-location = "*"
+ruff = "*"
+dotenv="*"
+sqlalchemy = "*"
+psycopg2 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

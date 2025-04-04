@@ -1,0 +1,255 @@
+{
+  "format": "linked-data-api",
+  "version": "0.2",
+  "result": {
+    "first": "https://datos.madrid.es/egob/catalogo/title/SER-calles.json?_page=0",
+    "items": [
+      {
+        "_about": "https://datos.madrid.es/egob/catalogo/218228-0-SER-calles",
+   "description": [       "description": [
+          {
+            "value": "Este conjunto de datos ofrece el listado georreferenciado de calles del Servicio de Estacionamiento Regulado (SER) de la ciudad de la ciudad de Madrid, así como el número de plazas por calle, número y tipo de zona (zona azul, zona verde, estacionamientos de larga estancia y de ámbito sanitario).    El sistema de georreferenciación utilizado en los datos de coordenadas es ETRS89.       Servicio de Estacionamiento Regulado (SER). Parquímetros     Servicio de Estacionamiento Regulado (SER). Tiques de aparcamiento     Autorizaciones del Servicio de Estacionamiento Regulado (SER)     Zonas del Servicio de Estacionamiento Regulado (SER)",
+            "_lang": "es"
+          }
+        ],
+        "identifier": "https://datos.madrid.es/egob/catalogo/218228-0-SER-calles",
+        "issued": "2016-01-25T13:23:27",
+        "modified": "2025-01-17T10:43:51",
+        "publisher": "http://datos.gob.es/recurso/sector-publico/org/Organismo/L01280796",
+        "theme": "http://datos.gob.es/kos/sector-publico/sector/transporte",
+        "title": "Servicio de Estacionamiento Regulado (SER). Calles y número de plazas",
+        "distribution": [
+          {
+            "title": "2024",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-18-SER-calles.csv",
+            "byteSize": 3359744,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "text/csv"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2024",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-19-SER-calles.xlsx",
+            "byteSize": 1899520,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "application/vnd.ms-excel"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2023",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-16-SER-calles.csv",
+            "byteSize": 3394560,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "text/csv"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2023",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-17-SER-calles.xlsx",
+            "byteSize": 1595392,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "application/vnd.ms-excel"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2022",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-14-SER-calles.csv",
+            "byteSize": 3266560,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "text/csv"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2022",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-15-SER-calles.xlsx",
+            "byteSize": 1540096,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "application/vnd.ms-excel"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2021",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-12-SER-calles.csv",
+            "byteSize": 3135488,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "text/csv"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2021",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-13-SER-calles.xlsx",
+            "byteSize": 1532928,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "application/vnd.ms-excel"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2020",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-10-SER-calles.csv",
+            "byteSize": 3349504,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "text/csv"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2020",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-11-SER-calles.xlsx",
+            "byteSize": 1659904,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "application/vnd.ms-excel"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2019",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-8-SER-calles.csv",
+            "byteSize": 3143680,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "text/csv"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2019",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-9-SER-calles.xlsx",
+            "byteSize": 1563648,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "application/vnd.ms-excel"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2018",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-6-SER-calles.csv",
+            "byteSize": 2680832,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "text/csv"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2018",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-7-SER-calles.xlsx",
+            "byteSize": 1400832,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "application/vnd.ms-excel"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2017",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-4-SER-calles.csv",
+            "byteSize": 3025920,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "text/csv"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2017",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-5-SER-calles.xlsx",
+            "byteSize": 1355776,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "application/vnd.ms-excel"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2016",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-2-SER-calles.csv",
+            "byteSize": 2489344,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "text/csv"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2016",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-3-SER-calles.xlsx",
+            "byteSize": 1306624,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "application/vnd.ms-excel"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2015",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-0-SER-calles.csv",
+            "byteSize": 4752384,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "text/csv"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          },
+          {
+            "title": "2015",
+            "accessURL": "https://datos.madrid.es/egob/catalogo/218228-1-SER-calles.xlsx",
+            "byteSize": 1881088,
+            "format": {
+              "type": "http://purl.org/dc/terms/IMT",
+              "value": "application/vnd.ms-excel"
+            },
+            "type": "http://www.w3.org/ns/dcat#Distribution"
+          }
+        ],
+        "type": "http://www.w3.org/ns/dcat#Dataset"
+      }
+    ],
+    "itemsPerPage": 50,
+    "page": 0,
+    "startIndex": 1,
+    "total": 1,
+    "type": [
+      "http://purl.org/linked-data/api/vocab#ListEndpoint",
+      "http://purl.org/linked-data/api/vocab#Page"
+    ]
+  }
+}
+{
+  "alt-svc": "h3=\":443\"; ma=93600",
+  "cache-control": "max-age=0, no-cache, no-store",
+  "content-disposition": "inline;filename=Descarga.json",
+  "content-encoding": "gzip",
+  "content-length": "1106",
+  "content-type": "application/json;charset=UTF-8",
+  "date": "Wed, 02 Apr 2025 17:39:06 GMT",
+  "expires": "Wed, 02 Apr 2025 17:39:06 GMT",
+  "ot-force-account-verify": "true",
+  "pragma": "no-cache",
+  "quic-version": "0x00000001",
+  "server-timing": "cdn-cache; desc=MISS, edge; dur=46, origin; dur=317, ak_p; desc=\"1743615545917_35033875_49021297_36306_11170_-_-_-\";dur=1",
+  "strict-transport-security": "max-age=15768000",
+  "vary": "Accept-Encoding",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "SAMEORIGIN",
+  "x-ua-compatible": "IE=8",
+  "x-xss-protection": "1; mode=block"
+},
