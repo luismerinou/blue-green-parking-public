@@ -22,7 +22,6 @@ streamlit-current-location = "*"
 ruff = "*"
 dotenv="*"
 sqlalchemy = "*"
-psycopg2 = "*"
 psycopg2-binary = "*"
 
 
